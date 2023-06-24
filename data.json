@@ -8,6 +8,13 @@
             "link": "https://img.kurio.network/KnvycU_f8Vw3o-c9TvQcZGoZp34=/1200x1200/filters:quality(80)/https://kurio-img.kurioapps.com/21/06/07/01cf89ef-14a4-4cd0-ac89-20a64fa92539.jpe"
         },
         {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Es Cappuccino Mesir",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://img.kurio.network/KnvycU_f8Vw3o-c9TvQcZGoZp34=/1200x1200/filters:quality(80)/https://kurio-img.kurioapps.com/21/06/07/01cf89ef-14a4-4cd0-ac89-20a64fa92539.jpe"
+        },
+        {
             "foto": "https://res.cloudinary.com/dk0z4ums3/image/upload/v1594099345/attached_image/ini-manfaat-konsumsi-kopi-hitam-dan-efek-sampingnya-untuk-kesehatan.jpg",
             "nama": "Kopi Hitam Pait",
             "size": "100 Gram",
@@ -23,6 +30,20 @@
         }
     ],
     "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
         {
             "foto": "images/produk/product_kopi_susu.jpg",
             "nama": "Kopsus Robusta",
